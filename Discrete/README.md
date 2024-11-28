@@ -24,12 +24,13 @@
 - Theorem & Proofs
 - Group codes
 
-### Module 3
+### Module 3 ✅
 - Permutations and combinations
 - Recurrence relation and generating function
 
 ### Module 4
 - Lattices
+- Proof that every chain is a lattice
 - Boolean Algebra
 
 ### Module 5
