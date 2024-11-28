@@ -13,7 +13,7 @@
 
 ## Important topics:
 
-#### <input type='checkbox'> Module 1
+#### - [ ] Module 1
 - PCNF <=> PDNF
 - Statement calculus
 - Predicate calculus
