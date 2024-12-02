@@ -26,3 +26,7 @@
 1. <input type='checkbox'> Multiplexer
 1. <input type='checkbox'> De-Multiplexer
 1. <input type='checkbox'> Booth's Multiplier
+1. <input type='checkbox'> SR Latch
+1. <input type='checkbox'> SR, JK, T, D Flip-Flops
+1. <input type='checkbox'> Registers, Shift Registers
+1. <input type='checkbox'> Counters
